@@ -6,6 +6,8 @@ Streamlit is an open-source Python library that makes it easy to build beautiful
 
 Dataset: Mushrooms.csv
 
+![Image](https://github.com/pranav0803/Machine-learning-Webapp-using-streamlit/blob/master/strem.PNG)
+
 # Code
 
 <h4>Import required Packages </h4>
