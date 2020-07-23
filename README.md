@@ -10,7 +10,7 @@ Dataset: Mushrooms.csv
 
 # Code
 
-<h4>Import required Packages </h4>
+<h4>Import required libraries </h4>
 
 ```
 import streamlit as st
@@ -68,7 +68,7 @@ def plot_metrics(metrics_list):
             st.pyplot()
 ```
 
-Run the webapp.py file in anaconda virtual environment after installing the reuired packages
+Run the webapp.py file in anaconda virtual environment after installing the required libraries
 1) Streamlit --> pip install streamlit
 2) sklearn  --> pip install sklearn
 
